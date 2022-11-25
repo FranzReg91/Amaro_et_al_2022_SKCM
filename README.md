@@ -27,6 +27,9 @@ Just use the command "python3 JSVD_Pfeffer_et_al_2019.py 4" to run the script on
 [1] Amaro et al., 
     In 
 [2] Samur, M.K. RTCGAToolbox: A New Tool for Exporting TCGA Firehose Data. PLoS ONE 2014, 9, e106397, doi:10.1371/journal.pone.0106397.
+
 [3] Love, M.I.; Huber, W.; Anders, S. Moderated Estimation of Fold Change and Dispersion for RNA-Seq Data with DESeq2. Genome Biol. 2014, 15, 550, doi:10.1186/s13059-014-0550-8.
+
 [4] Colaprico, A.; Silva, T.C.; Olsen, C.; Garofano, L.; Cava, C.; Garolini, D.; Sabedot, T.S.; Malta, T.M.; Pagnotta, S.M.; Castiglioni, I.; et al. TCGAbiolinks: An R/Bioconductor Package for Integrative Analysis of TCGA Data. Nucleic Acids Res. 2016, 44, e71, doi:10.1093/nar/gkv1507.
+
 [X] Pfeffer, M.; Uschmajew, A.; Amaro, A.; Pfeffer, U. Data Fusion Techniques for the Integration of Multi-Domain Genomic Data from Uveal Melanoma. Cancers 2019, 11, 1434, doi:10.3390/cancers11101434.
