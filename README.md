@@ -11,14 +11,13 @@ Script to download all data used to make plot and DF analysis:
   * Methylation data preparation
   * Download maf files for supplementary figure 1 with TCGA biolinks [4].
 
-
-### File Script.R
-Script cccc
+### SKCM_data_fusion.R
+Script to make DF with R packages and produce all plot, table and analysis of the paper [1]
 
 ### JSVD_Pfeffer_et_al_2019.py
 This script computes a python version of JSVD as reported in [X], it requires pymanopt and other libraries to be installed in order to work (check the first part of the script for more information).
-Check the path to output and input files in the script and change it or create the appropriate folder structure before running the script. 
-Just use the command "python3 JSVD_Pfeffer_et_al_2019.py 4" to run the script on an Ubuntu terminal.
+  * Check the path to output and input files in the script and change it or create the appropriate folder structure before running the script. 
+  * Just use the command "python3 JSVD_Pfeffer_et_al_2019.py 4" to run the script on an Ubuntu terminal.
 
 
 
