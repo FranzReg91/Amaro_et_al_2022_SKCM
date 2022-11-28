@@ -16,8 +16,8 @@ import autograd.numpy as anp # to compute gradient and hessian automatically
 os.chdir('../')
 
 its=1000000
-G = np.loadtxt("./results/dataSKCMjcmf_2D/preproc/RNA_prep.txt")
-M = np.loadtxt("./results/dataSKCMjcmf_2D/preproc/Met_prep.txt")
+G = np.loadtxt("./results/dataSKCMjsvd_2D/preproc/RNA_prep.txt")
+M = np.loadtxt("./results/dataSKCMjsvd_2D/preproc/Met_prep.txt")
 
 I = np.shape(G)[0] # NB python is 0 indexed, matlab starts from one
 
