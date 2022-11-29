@@ -9,7 +9,7 @@ This repository stores all scripts for the analysis used in [1], to make all ana
 Script to download all data used to make plot and Data Fusion (DF) analysis:
   * Download RNA-seq data with RTCGAToolbox [2] and normalization with DESeq2 [3].
   * Methylation data preparation
-  * Download maf files for supplementary figure 1 with TCGA biolinks [4].
+  * Download maf files for supplementary figure 1 with TCGAbiolinks [4].
 
 ### SKCM_data_fusion.R
 Script to make DF with R packages and produce all plot, table and analysis of the paper [1]
