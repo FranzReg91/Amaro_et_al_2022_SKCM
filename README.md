@@ -5,7 +5,7 @@ This repository stores all scripts for the analysis used in [1], to make all ana
 
 ## src
 
-### Download_data_SKCM_Amaro.R
+### Download_data_SKCM.R
 Script to download all data used to make plot and Data Fusion (DF) analysis:
   * Download RNA-seq data with RTCGAToolbox [2] and normalization with DESeq2 [3].
   * Methylation data preparation
