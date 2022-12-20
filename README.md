@@ -1,5 +1,5 @@
 # SKCM Data Fusion analysis, Amaro et al. 2022
-script used for Amaro et al. 2022, under revision
+script used for Amaro et al. 2022 [1]
 
 This repository stores all scripts for the analysis used in [1], to make all analysis you should create 3 folders (src, data and results).
 
@@ -23,7 +23,7 @@ This script computes a python version of JSVD as reported in [5] and implemented
 
 ## REFERENCES
 
-[1] Amaro et al., 
+[1] Amaro, A.; Pfeffer, M.; Pfeffer, U.; Reggiani, F. Evaluation and Comparison of Multi-Omics Data Integration Methods for Subtyping of Cutaneous Melanoma. Biomedicines 2022, 10, 3240. https://doi.org/10.3390/biomedicines10123240
 
 [2] Samur, M.K. RTCGAToolbox: A New Tool for Exporting TCGA Firehose Data. PLoS ONE 2014, 9, e106397, doi:10.1371/journal.pone.0106397.
 
